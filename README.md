@@ -1,2 +1,13 @@
 # Atum
-Atum is a script that automates LAN Enumeration
+
+## Installation and usage
+
+- git clone https://github.com/Nat-Url/Atum.git
+- cd atum
+- chmod +x atum.sh
+- sudo bash atum.sh
+
+## Requirements 
+- Nmap
+- Dirb
+- Whatweb
