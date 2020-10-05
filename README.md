@@ -8,6 +8,8 @@
 - sudo bash atum.sh
 
 ## Requirements 
+The Following tools are installed by default in Kali
 - Nmap
 - Dirb
 - Whatweb
+- Nikto
